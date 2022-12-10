@@ -16,6 +16,7 @@ export default function Home() {
                 sint iure itaque libero quo corrupti officia quibusdam! Animi
                 iusto officiis voluptate.
             </p>
+            <p>Everybody are good in this session</p>
         </div>
     );
 }
