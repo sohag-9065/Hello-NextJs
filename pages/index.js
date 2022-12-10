@@ -9,6 +9,13 @@ export default function Home() {
         <div>
             <h1>This is Main Page</h1>
             <p>New Text</p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem
+                omnis vitae tempore sunt quos, ducimus minus ratione aut quasi
+                reiciendis ipsam laborum culpa ipsa eveniet non possimus rerum
+                sint iure itaque libero quo corrupti officia quibusdam! Animi
+                iusto officiis voluptate.
+            </p>
         </div>
     );
 }
